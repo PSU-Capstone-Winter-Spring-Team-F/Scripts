@@ -1,3 +1,4 @@
 copy
+faker
 json
 random

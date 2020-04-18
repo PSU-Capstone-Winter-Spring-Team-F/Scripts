@@ -1,0 +1,14 @@
+ProblemDetails{
+type	string
+nullable: true
+title	string
+nullable: true
+status	integer($int32)
+nullable: true
+detail	string
+nullable: true
+instance	string
+nullable: true
+< * >:	{
+}
+}
